@@ -1,7 +1,7 @@
 # Selah Timer ⏱️
 
 <p align="center">
-  <img src="icon.png" alt="Selah Timer Icon" width="128" height="128">
+  <img src="icon-ios-60x60@3x.png" alt="Selah Timer Icon" width="128" height="128">
 </p>
 
 <p align="center">
