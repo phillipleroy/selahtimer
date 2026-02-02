@@ -281,8 +281,6 @@ You can also reach out via email:
 ## Additional Resources
 
 - **App Store**: [Download Selah Timer](#)
-- **Source Code**: [GitHub Repository](#)
-- **Privacy Policy**: [View Privacy Policy](#)
 
 ---
 
@@ -290,8 +288,8 @@ You can also reach out via email:
 
 For any other questions or concerns:
 
-📧 Email: **support@yourdomain.com**  
-🐙 GitHub: **[@yourusername](https://github.com/yourusername)**
+📧 Email: **phillip dot lerot at gmail dot com**  
+🐙 GitHub: **[@yourusername](https://github.com/phillipleroy)**
 
 ---
 
