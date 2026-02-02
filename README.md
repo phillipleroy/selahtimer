@@ -149,7 +149,7 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 ## 📞 Contact
 
 - **Email**: phillip dot lerot at gmail dot com
-- **GitHub**: [@yourusername](https://github.com/phillipleroy)
+- **GitHub**: [@phillipleroy](https://github.com/phillipleroy)
 
 ---
 
