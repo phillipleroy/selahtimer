@@ -163,7 +163,7 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 ## 📚 Additional Resources
 
 - [Support Documentation](SUPPORT.md) - Detailed user guide
-- [Privacy Policy](PRIVACY.md) - Privacy information
+- [Privacy Policy](privacy.md) - Privacy information
 - [App Store Page](https://apps.apple.com/app/selah-timer/idXXXXXXXXX) - Download the app
 - [Release Notes](CHANGELOG.md) - Version history
 
