@@ -90,83 +90,6 @@ For detailed instructions, see the [Support Documentation](SUPPORT.md).
 
 ---
 
-## 🛠️ Building from Source
-
-### Prerequisites
-
-- Xcode 15.0 or later
-- iOS 16.2 SDK or later
-- Swift 5.9 or later
-
-### Clone and Build
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/SelahTimer.git
-cd SelahTimer
-
-# Open in Xcode
-open SelahTimer.xcodeproj
-
-# Build and run (⌘R)
-```
-
-### Project Structure
-
-```
-SelahTimer/
-├── SelahTimer/              # Main app target
-│   ├── Views/              # SwiftUI views
-│   ├── Models/             # Data models
-│   ├── ViewModels/         # View models
-│   └── Resources/          # Assets and localization
-├── SelahTimerWidget/        # Widget extension
-├── SUPPORT.md              # User support documentation
-└── README.md               # This file
-```
-
----
-
-## 🏗️ Technical Details
-
-### Architecture
-
-- **SwiftUI** - Modern declarative UI framework
-- **Swift Concurrency** - Async/await for timer management
-- **Live Activities** - Real-time updates on Lock Screen and Dynamic Island
-- **WidgetKit** - Widget extension for glanceable information
-- **UserDefaults** - Local storage for preferences
-
-### Key Technologies
-
-- SwiftUI for the entire UI
-- ActivityKit for Live Activities
-- WidgetKit for widgets
-- Combine for reactive state management
-- Swift's `Timer` for countdown functionality
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to Selah Timer:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Areas for Contribution
-
-- 🌍 Additional language localizations
-- ♿️ Accessibility improvements
-- 🎨 UI/UX enhancements
-- 🐛 Bug fixes
-- 📖 Documentation improvements
-
----
-
 ## 🐛 Bug Reports & Feature Requests
 
 Found a bug or have a feature request? Please [open an issue](https://github.com/yourusername/SelahTimer/issues) with:
@@ -225,9 +148,8 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 
 ## 📞 Contact
 
-- **Email**: support@yourdomain.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/SelahTimer/issues)
+- **Email**: phillip dot lerot at gmail dot com
+- **GitHub**: [@yourusername](https://github.com/phillipleroy)
 
 ---
 
@@ -235,8 +157,7 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 
 - Built with ❤️ for the worldwide congregation
 - Thanks to all contributors and testers
-- Special thanks to the iOS development community
-
+  
 ---
 
 ## 📚 Additional Resources
