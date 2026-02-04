@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>An elegant timer app for timing midweek meeting assignments</strong>
+  <strong>An elegant timer app for timing JW midweek meeting assignments</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 📱 About
 
-Selah Timer is designed specifically for timing midweek meeting assignments. It automatically calculates when your assignment starts based on the meeting schedule and provides a clean countdown timer to keep you perfectly on time.
+Selah Timer is designed specifically for timing JW midweek meeting assignments. It automatically calculates when your assignment starts based on the meeting schedule and provides a clean countdown timer to keep you perfectly on time.
 
 ### ✨ Key Features
 
