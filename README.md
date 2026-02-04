@@ -148,7 +148,7 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 
 ## 📞 Contact
 
-- **Email**: phillip dot lerot at gmail dot com
+- **Email**: phillip dot leroy at gmail dot com
 - **GitHub**: [@phillipleroy](https://github.com/phillipleroy)
 
 ---
