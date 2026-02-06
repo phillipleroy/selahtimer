@@ -92,7 +92,7 @@ For detailed instructions, see the [Support Documentation](SUPPORT.md).
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/yourusername/SelahTimer/issues) with:
+Found a bug or have a feature request? Please [open an issue](https://github.com/phillipleroy/selahtimer/issues) with:
 
 - **Device model** (e.g., iPhone 15 Pro, iPad Air)
 - **iOS version**
@@ -109,7 +109,7 @@ Selah Timer is available under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Phillip Leroy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -142,7 +142,7 @@ Your privacy is paramount. Selah Timer:
 - ✅ Does **NOT** connect to the internet
 - ✅ Stores all settings locally on your device
 
-For more details, see our [Privacy Policy](PRIVACY.md).
+For more details, see our [Privacy Policy](privacy.md).
 
 ---
 
@@ -174,5 +174,5 @@ For more details, see our [Privacy Policy](PRIVACY.md).
 </p>
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Phillip Leroy
 </p>
